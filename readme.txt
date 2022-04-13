@@ -7,3 +7,4 @@ Studying 时光穿梭机 again!
 Create a new branch is quick and simple.
 Creage a dev branch!.
 To repare issue-101.
+Repairing a bug.
